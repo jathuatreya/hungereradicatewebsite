@@ -35,4 +35,4 @@ Our organization is dedicated to promoting sustainable food production systems a
 - **Hunger Eradicate**
 - Join us in our mission to end hunger. We're a nonprofit organization dedicated to eradicating hunger worldwide.
 - Follow us on [Facebook](#), [Twitter](#), and [Instagram](#).
-- &copy;2024 HungerEradicate | All Rights Reserved | Designed by [Varnakulasingam Jathushan](pageediter.html)
+- &copy;2024 HungerEradicate | All Rights Reserved | Homepage designed by **[Your Name]** | Navbar and content pages edited by **[Page Editer]**
